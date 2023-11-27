@@ -1,7 +1,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos!!;Soy+Edson,+un+programador+en+constante+desarrollo!!)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" widt="200"/>
+  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" widt="200"/>
 </div>
 
 
