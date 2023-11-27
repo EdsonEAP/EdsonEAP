@@ -12,25 +12,25 @@
 <div align="center">
 <div align="center">
 <a href="https://facebook.com/edson.eap.3/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+<a href="https://www.instagram.com/ed_2001uu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdsonEAP&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/EdsonEAP/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdsonEAP&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonEAP&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=EdsonEAP&theme=tokyonight_duo&hide_border=true"
 </p>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br><p align="centre"><b>Visitantes de la cuenta👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/EdsonEAP/count.svg" /></p> 
 <br>
 </div>
